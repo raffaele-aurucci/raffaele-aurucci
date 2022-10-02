@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://wwww.linkedin.com/in/raffaele-aurucci-3b2135244" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raffaele aurucci" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/raffaele-aurucci-3b2135244" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raffaele aurucci" height="30" width="40" /></a>
 <a href="https://www.facebook.com/raf.aurucci" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="raffaele aurucci" height="30" width="40" /></a>
 <a href="https://instagram.com/raffy_aurucci" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raffy_aurucci" height="30" width="40" /></a>
 </p>
@@ -74,7 +74,7 @@
 
 </p>
 
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=raffaele-aurucci&show_icons=true&locale=en&layout=compact" alt="raffaele-aurucci" />
-	&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=raffaele-aurucci&show_icons=true&locale=en" alt="raffaele-aurucci" />
+<p>
+	<img align="left"src="https://github-readme-stats.vercel.app/api/top-langs?username=raffaele-aurucci&show_icons=true&locale=en&layout=compact" alt="raffaele-aurucci" />
+	&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=raffaele-aurucci&show_icons=true&locale=en" alt="raffaele-aurucci" />
 </p>
