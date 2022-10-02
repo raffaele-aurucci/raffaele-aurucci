@@ -76,5 +76,5 @@
 
 <p>
 	<img align="left"src="https://github-readme-stats.vercel.app/api/top-langs?username=raffaele-aurucci&show_icons=true&locale=en&layout=compact" alt="raffaele-aurucci" />
-	&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=raffaele-aurucci&show_icons=true&locale=en" alt="raffaele-aurucci" />
+	&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=raffaele-aurucci&show_icons=true&locale=en" alt="raffaele-aurucci" />
 </p>
