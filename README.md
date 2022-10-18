@@ -61,19 +61,21 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="intellij" width="40" height="40"/>
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="pycharm" width="40" height="40"/>
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Clion.svg/1024px-Clion.svg.png" alt="clion" width="40" height="40"/>
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="visual-studio" width="40" height="40"/>
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Vista-eclipse.png" alt="visual-studio" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Vista-eclipse.png" alt="eclipse" width="40" height="40"/> 
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="visual-studio" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="virtual-box" width="40" height="40"/> 
 
 </p>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raffaele-aurucci&langs_count=10&count_private=true&show_icons=true&theme=dark&layout=compact&include_all_commits=true" alt="raffaele-aurucci"  style="height: 140px; width: 350px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=raffaele-aurucci&count_private=true&show_icons=true&theme=dark&layout=compact" alt="raffaele-aurucci" style="height: 140px;"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raffaele-aurucci&langs_count=10&count_private=true&show_icons=true&theme=dark&include_all_commits=true" alt="raffaele-aurucci"  style="height: 140px; width: 350px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raffaele-aurucci&count_private=true&show_icons=true&theme=dark&layout=compact" alt="raffaele-aurucci" style="height: 140px;"/>
 </div>
 
