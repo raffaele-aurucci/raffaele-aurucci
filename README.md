@@ -75,7 +75,7 @@
 <br>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raffaele-aurucci&langs_count=10&count_private=true&show_icons=true&theme=dark&include_all_commits=true" alt="raffaele-aurucci"  style="height: 140px; width: 350px"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raffaele-aurucci&count_private=true&show_icons=true&theme=dark&layout=compact" alt="raffaele-aurucci" style="height: 140px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raffaele-aurucci&langs_count=10&count_private=true&show_icons=true&theme=dark&layout=compact&include_all_commits=true" alt="raffaele-aurucci"  style="height: 140px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=raffaele-aurucci&count_private=true&show_icons=true&theme=dark&layout=compact" alt="raffaele-aurucci" style="height: 140px;"/>
 </div>
 
