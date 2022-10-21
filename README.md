@@ -2,10 +2,6 @@
 <h3 align="center">A passionate programmer from Italy. I currently studying Computer Science at the <a href="https://www.unisa.it/" target="_blank"> University of Salerno</a>.
 </h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=raffaele-aurucci&label=Profile%20views&color=0e75b6&style=flat" alt="raffaele-aurucci" /> 
-</p>
-
 - 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **raffaeleaurucci.informatica@gmail.com**
