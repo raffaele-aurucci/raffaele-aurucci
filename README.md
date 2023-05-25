@@ -2,7 +2,7 @@
 <h3 align="center">A passionate programmer from Italy. I currently studying Computer Science at the <a href="https://www.unisa.it/" target="_blank"> University of Salerno</a>.
 </h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently working for my thesis in Serious Games for Education
 
 - 📫 How to reach me **raffaeleaurucci.informatica@gmail.com**
 
