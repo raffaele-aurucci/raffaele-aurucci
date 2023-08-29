@@ -32,6 +32,8 @@
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="c#" width="40" height="40"/>  
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -65,6 +67,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Vista-eclipse.png" alt="eclipse" width="40" height="40"/> 
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="virtual-box" width="40" height="40"/> 
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="virtual-box" width="40" height="40"/>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
 
 </p>
 
