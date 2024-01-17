@@ -24,8 +24,8 @@
   <img alt="C" src="https://img.shields.io/badge/C-FFFFFF?style=for-the-badge&logo=C">
   <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp">
   <img alt="Python" src="https://img.shields.io/badge/Python-FCC624?style=for-the-badge&logo=python&logoColor=3776AB">
-  <img alt="Java" src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java">
-  <img alt="Java" src="https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img alt="Java" src="https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=java">
+  <img alt="JavaScript" src="https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
