@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raffaele Aurucci</h1>
-<h3 align="center">A passionate programmer from Italy. I study Computer Science at the <a href="https://www.unisa.it/" target="_blank"> University of Salerno</a>.
+<h3 align="center">A passionate programmer from Italy. I study Computer Science at <a href="https://www.unisa.it/" target="_blank"> University of Salerno</a>.
 </h3>
 
 - 🌱 My current interests are Data Science & Machine Leaning
