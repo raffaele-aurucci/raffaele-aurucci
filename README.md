@@ -1,77 +1,52 @@
 <h1 align="center">Hi 👋, I'm Raffaele Aurucci</h1>
-<h3 align="center">A passionate programmer from Italy. I currently studying Computer Science at the <a href="https://www.unisa.it/" target="_blank"> University of Salerno</a>.
+<h3 align="center">A passionate programmer from Italy. I study Computer Science at the <a href="https://www.unisa.it/" target="_blank"> University of Salerno</a>.
 </h3>
 
-- 🌱 I’m currently working for my thesis in Serious Games for Education
+- 🌱 My current interests are Data Science & Machine Leaning
 
 - 📫 How to reach me **raffaeleaurucci.informatica@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-
 <p align="left">
-
   <a href="https://linkedin.com/in/raffaele-aurucci-3b2135244" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raffaele aurucci" height="30" width="40" />
+    <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin">
   </a>
-
   <a href="https://fb.com/raf.aurucci" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="raffaele aurucci" height="30" width="40" />
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=Facebook">
   </a>
-
   <a href="https://instagram.com/raffy_aurucci" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raffy_aurucci" height="30" width="40" />
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=Instagram">
   </a>
-  
 </p>
 
 <h3 align="left">Languages:</h3>
-
 <p align="left"> 
+  <img alt="C" src="https://img.shields.io/badge/C-FFFFFF?style=for-the-badge&logo=C">
+  <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp">
+  <img alt="Python" src="https://img.shields.io/badge/Python-FCC624?style=for-the-badge&logo=python&logoColor=3776AB">
+  <img alt="Java" src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java">
+  <img alt="Java" src="https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/mySQL-323330?style=for-the-badge&logo=mySQL&logoColor=F7DF1E%22">
+</p>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="c#" width="40" height="40"/>  
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-
-  <img src="https://openjsf.org/wp-content/uploads/sites/84/2019/10/jquery-logo-vertical_large_square.png" alt="jquery" width="40" height="40"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>  
-
+<h3 align="left">Operating Systems:</h3>
+<p align="left"> 
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black">
+  <img alt="Windows" src="https://img.shields.io/badge/-Windows-323330?logo=Windows&style=for-the-badge&logoColor=00A4EF">
+  <img alt="MacOS" src="https://img.shields.io/badge/-MacOS-white?logo=Apple&style=for-the-badge&logoColor=black">
 </p>
 
 <h3 align="left">Tools:</h3>
-
 <p align="left"> 
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/800px-Windows_logo_-_2012.svg.png" alt="windows" width="40" height="40"/>
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="intellij" width="40" height="40"/>
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="pycharm" width="40" height="40"/>
-  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Clion.svg/1024px-Clion.svg.png" alt="clion" width="40" height="40"/>
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="visual-studio" width="40" height="40"/>
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Vista-eclipse.png" alt="eclipse" width="40" height="40"/> 
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="virtual-box" width="40" height="40"/> 
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="virtual-box" width="40" height="40"/>
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
-
+  <img alt="Unity" src="https://img.shields.io/badge/Unity-323330?style=for-the-badge&logo=unity">
+  <img alt="Blender" src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white">
+  <img alt="JetBrains IDEs" src="https://img.shields.io/badge/-JetBrains%20IDEs-black?style=for-the-badge&logo=jetbrains">
+  <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code">
+  <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse">
+  <img alt="Virtual Box" src="https://img.shields.io/badge/Virtual%20Box-blue?style=for-the-badge&logo=virtualbox">
 </p>
 
 <br>
